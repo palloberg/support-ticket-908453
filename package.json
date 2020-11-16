@@ -1,0 +1,7 @@
+{
+  "name": "lots-of-dependencies",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^2.22.1"
+  }
+}
